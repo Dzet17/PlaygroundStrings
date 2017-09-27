@@ -1,5 +1,3 @@
-//: Playground - noun: a place where people can play
-
 import UIKit
 //Explicit Type declaration with no value
 var ramen :String
